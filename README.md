@@ -29,7 +29,7 @@ Use pivot tables and calculated columns where necessary to answer the following:
 This document outlines all the data preparation steps and formulas used to cleanse the dataset and derive additional columns for analysis in Excel.
 
 ### 🔧1. Identification removal of duplicate dataset using Unique Product_ID
-
+- 114 duplicate rows was identified and removed. Hence, reducing the rows from 1465 to 1351
 ### 🔧 2. Clean `actual_price` and `discounted_price`
 **Problem:** Values contain currency symbols (₹), commas, or are stored as text.  
 **Solution:**
@@ -112,7 +112,9 @@ This document outlines all the data preparation steps and formulas used to clean
 - GitHub (for version control & presentation)
 
 ## 💡 Key Insights
-- Electronics, computers Accessories and Home & Kitchen lead in revenue potential  
+- Home improvement and tos&games recoreded the highest and lowest average discount percentage by product category 0f 50% and 0% respectively
+- Electronics, computers Accessories and Home & Kitchen lead in revenue potential
+-  310 unique products had a <1000 reviews which cut across Electronics, computers Accessories, Home & Kitchen and office Product categories
 - Heavily discounted products (50%+) often attract higher review counts  
 - Rating distribution clusters around 4.0–4.5 stars
 
