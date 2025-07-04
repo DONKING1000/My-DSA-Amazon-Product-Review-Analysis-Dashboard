@@ -119,7 +119,6 @@ This document outlines all the data preparation steps and formulas used to clean
 - Rating distribution clusters around 4.0–4.5 stars
 - top 5 most rated products consist of 3 HDMI cables and 2 wireless Earphones of different colours and makeups with rating combined scores range of 0.8-0.9
 
-
 ## 📷 Dashboard Preview
+![Pivot Tables and Dashboard][Amazon case study 11.xlsx](https://github.com/user-attachments/files/21066238/Amazon.case.study.11.xlsx)
 
-![Dashboard](Amazon case study 11.xlsx)
