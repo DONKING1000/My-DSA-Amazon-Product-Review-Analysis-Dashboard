@@ -1,6 +1,11 @@
 # My-DSA-Amazon-Product-Review-Analysis-Dashboard
 ### This project analyzes product and customer review data from Amazon using Excel. It uses PivotTables, calculated fields, and a dynamic dashboard to generate insights that can help sellers improve products, marketing strategies, and customer engagement. 
 
+## ✅ Tools Used
+- Microsoft Excel (PivotTables, Formulas, Charts) [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Power Query (for optional cleaning)
+- GitHub (for version control & presentation)
+  
 ## 📂 Dataset Description
 - 1,465 Amazon product listings
 - 16 columns: product details, pricing, review stats, and more
@@ -105,11 +110,6 @@ This document outlines all the data preparation steps and formulas used to clean
 - Slicers for Product category    
 - Pivot charts: Rating Distribution, Reviews by Category  
 - Price bucket segmentation and many more.
-
-## ✅ Tools Used
-- Microsoft Excel (PivotTables, Formulas, Charts)
-- Power Query (for optional cleaning)
-- GitHub (for version control & presentation)
 
 ## 💡 Key Insights
 - Home improvement and toys&games recoreded the highest and lowest average discount percentage by product category 0f 50% and 0% respectively
