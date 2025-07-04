@@ -112,11 +112,13 @@ This document outlines all the data preparation steps and formulas used to clean
 - GitHub (for version control & presentation)
 
 ## 💡 Key Insights
-- Home improvement and tos&games recoreded the highest and lowest average discount percentage by product category 0f 50% and 0% respectively
+- Home improvement and toys&games recoreded the highest and lowest average discount percentage by product category 0f 50% and 0% respectively
 - Electronics, computers Accessories and Home & Kitchen lead in revenue potential
 -  310 unique products had a <1000 reviews which cut across Electronics, computers Accessories, Home & Kitchen and office Product categories
 - Heavily discounted products (50%+) often attract higher review counts  
 - Rating distribution clusters around 4.0–4.5 stars
+- top 5 most rated products consist of 3 HDMI cables and 2 wireless Earphones of different colours and makeups with rating combined scores range of 0.8-0.9
+
 
 ## 📷 Dashboard Preview
 
