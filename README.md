@@ -2,7 +2,7 @@
 ### This project analyzes product and customer review data from Amazon using Excel. It uses PivotTables, calculated fields, and a dynamic dashboard to generate insights that can help sellers improve products, marketing strategies, and customer engagement. 
 
 ## ✅ Tools Used
-- Microsoft Excel (PivotTables, Formulas, Charts) [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Microsoft Excel (PivotTables, Formulas, Charts) [Download here](https://www.microsoft.com)
 - Power Query (for optional cleaning)
 - GitHub (for version control & presentation)
   
