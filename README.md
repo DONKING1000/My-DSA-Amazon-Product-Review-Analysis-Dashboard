@@ -3,7 +3,7 @@
 
 ## ✅ Tools Used
 - Microsoft Excel (PivotTables, Formulas, Charts) [Download here](https://www.microsoft.com)
-- Power Query (for optional cleaning)
+- Power Query (for optional cleaning) [Download here](https://apps.microsoft.com)
 - GitHub (for version control & presentation)
   
 ## 📂 Dataset Description
