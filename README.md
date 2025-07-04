@@ -4,7 +4,7 @@
 ## ✅ Tools Used
 - Microsoft Excel (PivotTables, Formulas, Charts) [Download here](https://www.microsoft.com)
 - Power Query (for optional cleaning) [Download here](https://apps.microsoft.com/detail/9ntxr16hnw1t?launch=true&mode=full&hl=en-us&gl=ng&ocid=bingwebsearch)
-- GitHub (for version control & presentation)
+- GitHub (for version control & presentation) [sign-up here](https://github.com/)
   
 ## 📂 Dataset Description
 - 1,465 Amazon product listings
