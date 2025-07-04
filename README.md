@@ -122,4 +122,4 @@ This document outlines all the data preparation steps and formulas used to clean
 
 ## 📷 Dashboard Preview
 
-![Dashboard]
+![Dashboard](Amazon case study 11.xlsx)
